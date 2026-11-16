@@ -1,0 +1,8 @@
+**/bin
+**/obj
+**/.vs
+tests
+.config
+Dockerfile
+.dockerignore
+*.md
